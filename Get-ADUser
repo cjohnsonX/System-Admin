@@ -1,0 +1,1 @@
+PS C:\> Get-ADUser -Filter * -SearchBase "OU=TIGER,OU=3CR,DC=SBCT,DC=COM"
